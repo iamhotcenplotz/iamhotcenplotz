@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamhotcenplotz
 - 👀 I’m interested in a lot of stuff
-- 🌱 I’m currently learning Scrapy, sqlalchemy
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning Scrapy and sqlalchemy
+- 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me my qq mail
 
 <!---
